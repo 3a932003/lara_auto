@@ -11,7 +11,6 @@
 	$john = new
 	Demo\Hello\Someone('John');
 	$hello = new Demo\HelloWorld();
-	use Demo\HelloWorld as World;//類
-	別另取別名
+	use Demo\HelloWorld as World;//類別另取別名
 	$world = new World();
 ?>
