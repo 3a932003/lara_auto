@@ -17,10 +17,6 @@
         "classmap": [
             "./my_library",
             "./other_library"
-        ],
-        "files": [
-            "src/Illuminate/Foundation/helpers.php",
-            "src/Illuminate/Support/helpers.php"
         ]
     }
 }
